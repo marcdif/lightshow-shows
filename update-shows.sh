@@ -1,2 +1,1 @@
-scp -r shows pi@raspberrypi.lan:~/
-#rsync --progress --recursive shows pi@raspberrypi.lan:~/
+scp -r *.show marc@192.168.10.236:~/shows/
